@@ -1,6 +1,6 @@
 # Notification Bridge Themes
 
-Community theme files for **Notification Bridge**, organized by their primary appearance:
+Theme files for **Notification Bridge**, organized by their primary appearance:
 
 - `themes/light/`
 - `themes/dark/`
