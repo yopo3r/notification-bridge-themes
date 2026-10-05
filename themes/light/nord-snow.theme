@@ -1,0 +1,16 @@
+version: 1
+name: Nord Snow
+light.foreground: #2E3440
+light.background: #ECEFF4
+light.highlight: #5E81AC
+light.highlight-foreground: #FFFFFF
+light.secondary: #8FBCBB
+light.surface: #E5E9F0
+light.error: #BF616A
+dark.foreground: #ECEFF4
+dark.background: #2E3440
+dark.highlight: #88C0D0
+dark.highlight-foreground: #2E3440
+dark.secondary: #B48EAD
+dark.surface: #3B4252
+dark.error: #BF616A

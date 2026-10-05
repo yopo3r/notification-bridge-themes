@@ -1,0 +1,16 @@
+version: 1
+name: Solarized Light
+light.foreground: #586E75
+light.background: #FDF6E3
+light.highlight: #268BD2
+light.highlight-foreground: #FDF6E3
+light.secondary: #2AA198
+light.surface: #EEE8D5
+light.error: #DC322F
+dark.foreground: #839496
+dark.background: #002B36
+dark.highlight: #268BD2
+dark.highlight-foreground: #FDF6E3
+dark.secondary: #2AA198
+dark.surface: #073642
+dark.error: #DC322F

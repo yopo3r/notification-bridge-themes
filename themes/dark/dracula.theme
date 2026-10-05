@@ -1,0 +1,16 @@
+version: 1
+name: Dracula
+light.foreground: #1F1F1F
+light.background: #FFFBEB
+light.highlight: #644AC9
+light.highlight-foreground: #FFFFFF
+light.secondary: #036A96
+light.surface: #E2DECA
+light.error: #CB3A2A
+dark.foreground: #F8F8F2
+dark.background: #282A36
+dark.highlight: #BD93F9
+dark.highlight-foreground: #282A36
+dark.secondary: #8BE9FD
+dark.surface: #44475A
+dark.error: #FF5555

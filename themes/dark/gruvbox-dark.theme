@@ -1,0 +1,16 @@
+version: 1
+name: Gruvbox Dark
+light.foreground: #3C3836
+light.background: #FBF1C7
+light.highlight: #458588
+light.highlight-foreground: #FBF1C7
+light.secondary: #8F3F71
+light.surface: #EBDBB2
+light.error: #CC241D
+dark.foreground: #EBDBB2
+dark.background: #282828
+dark.highlight: #83A598
+dark.highlight-foreground: #282828
+dark.secondary: #D3869B
+dark.surface: #3C3836
+dark.error: #FB4934

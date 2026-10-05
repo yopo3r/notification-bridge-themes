@@ -1,0 +1,16 @@
+version: 1
+name: Tokyo Night
+light.foreground: #3760BF
+light.background: #E1E2E7
+light.highlight: #2E7DE9
+light.highlight-foreground: #FFFFFF
+light.secondary: #9854F1
+light.surface: #D5D6DB
+light.error: #F52A65
+dark.foreground: #C0CAF5
+dark.background: #1A1B26
+dark.highlight: #7AA2F7
+dark.highlight-foreground: #1A1B26
+dark.secondary: #BB9AF7
+dark.surface: #24283B
+dark.error: #F7768E
