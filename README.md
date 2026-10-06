@@ -17,6 +17,7 @@ The folder indicates the variant the file is designed to emphasize.
 - Nord Snow
 - Solarized Light
 - Tokyo Day
+- Turquoise Light
 
 ### Dark
 - Dracula
@@ -24,6 +25,7 @@ The folder indicates the variant the file is designed to emphasize.
 - Nord Polar Night
 - Solarized Dark
 - Tokyo Night
+- Turquoise Dark
 
 ## Install
 
