@@ -1,0 +1,16 @@
+version: 1
+name: Turquoise Dark
+light.foreground: #163A3A
+light.background: #F2FFFD
+light.highlight: #008C8C
+light.highlight-foreground: #FFFFFF
+light.secondary: #00AFA5
+light.surface: #D9F5F1
+light.error: #C93C4A
+dark.foreground: #D9FFFB
+dark.background: #071F20
+dark.highlight: #35D0C5
+dark.highlight-foreground: #062324
+dark.secondary: #63E6D8
+dark.surface: #103637
+dark.error: #FF6B78
