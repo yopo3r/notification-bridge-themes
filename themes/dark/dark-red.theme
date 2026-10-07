@@ -1,0 +1,18 @@
+version: 1
+name: Crimson Night
+
+light.foreground: #2B1111
+light.background: #FFF8F8
+light.highlight: #C62828
+light.highlight-foreground: #FFFFFF
+light.secondary: #E8CACA
+light.surface: #FFF0F0
+light.error: #D32F2F
+
+dark.foreground: #F5EAEA
+dark.background: #120708
+dark.highlight: #B71C1C
+dark.highlight-foreground: #FFFFFF
+dark.secondary: #4A1F24
+dark.surface: #1E0D10
+dark.error: #EF5350
