@@ -20,6 +20,7 @@ The folder indicates the variant the file is designed to emphasize.
 - Turquoise Light
 
 ### Dark
+- Dark Red
 - Dracula
 - Gruvbox Dark
 - Nord Polar Night
